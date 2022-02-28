@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of the proceedings at the assizes, held for the county of Surrey at Croydon, begun on Wednesday the 28th. of February, 1683. and there continued for several days With a relation of the prisoners tryed and condemned at the said assizes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94885</idno>
+            <idno type="STC">Wing T2392aA</idno>
+            <idno type="STC">ESTC R215570</idno>
+            <idno type="EEBO-CITATION">99897923</idno>
+            <idno type="PROQUEST">99897923</idno>
+            <idno type="VID">132784</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94885)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132784)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2557:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of the proceedings at the assizes, held for the county of Surrey at Croydon, begun on Wednesday the 28th. of February, 1683. and there continued for several days With a relation of the prisoners tryed and condemned at the said assizes.</title>
+               </titleStmt>
+               <extent>4p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by George Croom, in Thames-Street over against Baynard's Castle,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>[1683]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from undated colophon.</note>
+                  <note>Date of publication from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials --  England --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:132784:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 50 -->
+            <head>A True ACCOUNT OF THE PROCEEDINGS AT THE ASSIZES, Held for the County of <hi>SURREY</hi> at CROYDON, Begun on <hi>Wedneſday</hi> the 28th. of <hi>February,</hi> 1683. and there continued for ſeveral Days.</head>
+            <head type="sub">With a RELATION of the PRISONERS TRYED and CONDEMNED at the ſaid <hi>ASSIZES.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>N <hi>Wedneſday</hi> the 28th. of <hi>February,</hi> 1682. the Aſſizes be<g ref="char:EOLhyphen"/>gan for the County of <hi>Surrey</hi> at <hi>Croydon; The Lord Chief Juſtice Pemberton,</hi> and Mr. <hi>Juſtice Charleton,</hi> be<g ref="char:EOLhyphen"/>ing the <hi>Judges</hi> at the ſaid <hi>Aſſizes.</hi>
+            </p>
+            <p>Above Forty Priſoners were carried down from the <hi>Marſhalſea,</hi> that had been committed ſince the laſt <hi>Aſſi<g ref="char:EOLhyphen"/>zes;</hi> beſides others who lay in the ſaid <hi>Goal</hi> upon for<g ref="char:EOLhyphen"/>mer Convictons, and five or more brought by <hi>Habeas Corpus</hi> from <hi>New<g ref="char:EOLhyphen"/>gate.</hi>
+            </p>
+            <p>
+               <hi>Abraham Morton,</hi> alias <hi>William Smith,</hi> one of thoſe ſo brought by <hi>Ha<g ref="char:EOLhyphen"/>beas Corpus</hi> from <hi>Newgate,</hi> being Indicted for ſtealing Horſes, was found <hi>Guilty</hi> thereof.</p>
+            <p>
+               <hi>William Fellows,</hi> Committed by the Coroner for the County of <hi>Surrey,</hi> for the Fellonious Murthering of one <hi>Thomas Alliſon,</hi> was Committed of the ſame.</p>
+            <p>
+               <pb n="2" facs="tcp:132784:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 50 -->
+               <hi>John Brown,</hi> Indicted for entring the dwelling Houſe of one <hi>Roger Ham<g ref="char:EOLhyphen"/>mond,</hi> and Stealing from thence ſeveral Parcels of Wearing Apparel, he was found <hi>Guilty</hi> of <hi>Felony</hi> and <hi>Eurglary.</hi>
+            </p>
+            <p>
+               <hi>John Harris,</hi> and <hi>Elizabeth Briſcoe,</hi> Committed for Breaking into the dwelling Houſe of <hi>Joſhua Boulton,</hi> and Stealing thence ſeveral Parcels of Goods, to the value of Seven Pounds, were likewiſe Convicted of <hi>Burglary.</hi>
+            </p>
+            <p>
+               <hi>Samuel Hall,</hi> Committed for Stealing a Horſe and two Mares, and In<g ref="char:EOLhyphen"/>dicted for the ſame was found <hi>Guilty.</hi>
+            </p>
+            <p>
+               <hi>William Hayneſworth,</hi> for Stealing a Pair of Black Fringe Gloves, out of the Shop of one <hi>Richard Dringly,</hi> was found <hi>Guilty.</hi>
+            </p>
+            <p>
+               <hi>Robert Smith,</hi> Committed for Stealing a Bay Gelding, of the value of Six Pounds, out of the Stable of one <hi>John Wood,</hi> in the Town of <hi>Mal<g ref="char:EOLhyphen"/>den,</hi> in the County of <hi>Eſſex;</hi> upon his Tryal for the ſame, was found <hi>Guilty.</hi>
+            </p>
+            <p>
+               <hi>Lawrence Addington, William Brayzer,</hi> and <hi>Henry Lovell,</hi> were all Committed for Felloniouſly, Stealing three Silver Tankards, and a Bea<g ref="char:EOLhyphen"/>ker from <hi>Peter Sallaways,</hi> but upon their Tryals, the Evidence againſt them not being clear, they were Acquitted.</p>
+            <p>
+               <hi>William Spragg,</hi> Indicted for Stealing a Mantua Gown, and other things out of the Houſe of one <hi>Mary Wright,</hi> and thereof was found <hi>Guilty.</hi>
+            </p>
+            <p>
+               <hi>Gabriel Lowe,</hi> Indicted for picking the Pocket of <hi>Elizabeth,</hi> the Wife of <hi>Edward Hubbald,</hi> was found <hi>Guilty.</hi>
+            </p>
+            <p>
+               <hi>Mary Denby,</hi> Tryed for Stealing a Deal-box, and therein ſeveral Pieces of Gold and Silver, of which ſhe was found <hi>Guilty.</hi>
+            </p>
+            <p>
+               <hi>Thomas Emerton,</hi> Committed for picking the Pocket of one <hi>Mary Johnſon,</hi> but upon his Tryal was Acquitted.</p>
+            <p>
+               <hi>Anne Emerton,</hi> Tryed for Felloniouſly entring the Houſe of one <hi>Tho<g ref="char:EOLhyphen"/>mas Nichols,</hi> and Stealing from thence ſeveral Pieces of Wearing Apparel, and thereof found <hi>Guilty.</hi>
+            </p>
+            <p>
+               <hi>John Stoaks,</hi> Committed for picking the Pocket of one <hi>Thomas Hop<g ref="char:EOLhyphen"/>good,</hi> but upon his Tryal was Acquitted.</p>
+            <p>
+               <hi>Alice Fergiſon, Peter Anderſon,</hi> and <hi>Thomas Fernely,</hi> Committed by the Coroner for the County of <hi>Surrey,</hi> for the Fellonious poyſoning of one <hi>John Fergiſon;</hi> but being Indicted and Tryed for the ſaid Murther, the Evidence produced, could not poſitively prove, that any thing by them given the Deceaſed, was the cauſe of his Death, or at leaſt they did not give a ſatisfactory Evidence, when in Court; ſo that the ſaid Per<g ref="char:EOLhyphen"/>ſons were therof Acquitted.</p>
+            <p>Many other Perſons having been Committed ſince the laſt <hi>Aſſizes,</hi> to the ſaid County Goal of <hi>Surrey:</hi> Part of them were Tryed and Acquit<g ref="char:EOLhyphen"/>ted of the ſeveral Crimes for which they were Indicted, and ſome of them not Indicted at all, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>William Chriſtian,</hi> Committed for Stealing of a Copper.</p>
+            <p>
+               <hi>William Benn,</hi> for Breaking the Priſon of St. <hi>Katherines,</hi> near the <hi>Tow<g ref="char:EOLhyphen"/>er</hi> of <hi>London.</hi>
+            </p>
+            <p>
+               <hi>Thomas Toll,</hi> for maintaining ſeveral Seditious Principles in publick Diſ<g ref="char:EOLhyphen"/>courſe againſt the Government of <hi>England.</hi>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:132784:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 50 -->
+               <hi>John Talbot,</hi> for the Fellonious taking of a black Cow from a Per<g ref="char:EOLhyphen"/>ſon, who when he was Committed was not known.</p>
+            <p>
+               <hi>Richard Scarlet,</hi> for Stealing Three and Twenty Shillings from one <hi>Evan Heighes.</hi>
+            </p>
+            <p>
+               <hi>Samuel Lamber,</hi> for the Fellonious taking of a Brown Gelding.</p>
+            <p>
+               <hi>Daniel Fry,</hi> and <hi>George Norman,</hi> for Stealing of Thirty Nine Perpetu<g ref="char:EOLhyphen"/>anes and Sayes, and a Coat of <hi>Thomas Godſells.</hi>
+            </p>
+            <p>
+               <hi>Abigail Swinfield,</hi> for Stealing a Silver Caudle-Cup from one <hi>Charles Dumvill.</hi>
+            </p>
+            <p>
+               <hi>Elizabeth Villard,</hi> for Stealing a Parcel of Crape, Linnen, and other things to the value of Forty Shillings, out of the Houſe of one <hi>James Kenaſton.</hi>
+            </p>
+            <p>
+               <hi>Edward Arthur, John Vollers, William Thomas,</hi> and <hi>Richard Osbourn,</hi> for Stealing of a Cheſt of Goods, out of a Cart at <hi>Bear Key,</hi> and a Bag of Money, containing Seventy and Four pounds, from a Compter of a Goldſmiths in <hi>Lumbardſtreet.</hi>
+            </p>
+            <p>
+               <hi>Mary Aymes</hi> alias <hi>Symonds,</hi> for Stealing of a Flaxen Sheet, out of a Shed or Out-houſe.</p>
+            <p>
+               <hi>Joſeph Tennant,</hi> and <hi>Suſan</hi> his Wife, for Stealing a Piece of Lawn, out of the Houſe of one <hi>Elizabeth Green.</hi>
+            </p>
+            <p>
+               <hi>Meriam Arthur,</hi> for picking a Pocket.</p>
+            <p>
+               <hi>George Collington,</hi> and <hi>Anne White,</hi> for Clipping ſeveral Parcels of the currant Coin of this Kingdom, and for ſtamping and uttering ſeve<g ref="char:EOLhyphen"/>ral Parcels of falſe Moneys.</p>
+            <p>
+               <hi>Edmund Terry,</hi> for a <hi>Burglary</hi> upon the Houſe of Mr. <hi>James Daviſon</hi> at <hi>Kingſtone</hi> upon <hi>Thames;</hi> and ſtealing from thence ſeveral pieces of Plate and Moneys.</p>
+            <p>
+               <hi>Henry Bayly,</hi> for miſdemeanours at unſeaſonable times in the Night.</p>
+            <p>
+               <hi>William Hammond,</hi> for Stealing Eleven Hens and a Cock.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>riah Holder,</hi> for Breaking into the dwelling Houſe of one <hi>Thomas Tyler,</hi> and taking thence ſeveral Goods, to the value of Nine and twen<g ref="char:EOLhyphen"/>ty pounds.</p>
+            <p>
+               <hi>George Whitehead, William Seamore, John Price,</hi> and <hi>Francis Elbocrous,</hi> brought alſo by <hi>Habeas Corpus</hi> from <hi>Newgate;</hi> one of which was found <hi>Guilty.</hi>
+            </p>
+            <p>It was by many expected, that Mr. <hi>Nathaniel Vincent</hi> the Presbyterian Miniſter, would have come to a new Tryal before the Judge of Aſſize, upon the late Indictment againſt him (and upon which he was Convict<g ref="char:EOLhyphen"/>ed) at the laſt Quarter Seſſions held at <hi>Darking</hi> for the ſaid County of <hi>Surrey;</hi> but what ground there was for ſuch expectations I know not, for he had no new Tryal at the Aſſizes.</p>
+            <p>
+               <pb n="4" facs="tcp:132784:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 51 -->
+In Concluſion, <hi>Twelve received sentence of Death,</hi> viz.<lb/>
+               <hi>William Fellows, Robert Smith, Abraham Moreton,</hi> alias <hi>William Smith, John Price, David William, Samel Hall, Anne Emerton, Mary Denby, John Harris, Elizabeth Briſcoe, William Hopkins, and John Brown.</hi>
+            </p>
+            <p>But two of the three Women pleaded their Bellies, and Juries of Wo<g ref="char:EOLhyphen"/>men being thereupon Impannelled; they brought them in to be Quick with Child.</p>
+            <p>
+               <hi>There were Three Burnt in the Hand,</hi> viz. <hi>William Spragg, Gabriel Low,</hi> and <hi>William Hainworth.</hi>
+            </p>
+            <p>
+               <hi>Alſo Ten begged Tranſportation,</hi> viz.<lb/>
+               <hi>Anne James, Samuel Johnſon, James Steward, Joyce Folks, William Biſhop, Henry Slaughter, William Tooth, Geofery Knightly, George Pin<g ref="char:EOLhyphen"/>fold,</hi> and <hi>Elizabeth Booth.</hi>
+            </p>
+            <p>Of the Twelve Mentioned to be Condemned, ſome are in hopes of a Reprieve until the next <hi>Aſsizes,</hi> beſides the Two Women, who were found to be with Child; ſo that the day of Execution not yet publick. But the Aſſizes Ending on <hi>Friday</hi> Night, the Priſoners were again brought back on <hi>Saturday</hi> to the <hi>Marſhalſea.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Croom,</hi> in <hi>Thames<g ref="char:EOLhyphen"/>ſtreet</hi> over againſt <hi>Baynard</hi>'s <hi>Caſtle.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
